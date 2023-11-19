@@ -1,0 +1,819 @@
+# Translation of Themes - Ollie in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Ollie package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-20 06:12:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Ollie\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Launch a blazing-fast, pixel-perfect website with the Ollie WordPress block theme! Ollie features over 50 beautiful pattern designs, 7 full-page pattern layouts, and a fully-customizable design system with Global Styles. Ollie integrates seamlessly with all of the powerful new WordPress editor features, giving you the most lightweight and powerful website builder on the planet — no expensive page builder plugin required! ✶ Full demo: https://demo.olliewp.com ✶"
+msgstr "¡Lanza un sitio web rapidísimo y pixel perfect con el tema de WordPress en bloque Ollie! Ollie cuenta con más de 50 bonitos diseños de patrones, 7 diseños de patrones a toda página y un sistema de diseño totalmente personalizable con estilos globales. Ollie se integra a la perfección con todas las nuevas y potentes características del editor de WordPress, ofreciéndote el constructor de sitios web más ligero y potente del planeta, ¡sin necesidad de costosos plugins constructores de páginas! ✶ Demo completa: https://demo.olliewp.com ✶"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Ollie"
+msgstr "Ollie"
+
+#: styles/teal.json
+msgctxt "Style variation name"
+msgid "Teal"
+msgstr "Verde azulado"
+
+#: styles/red.json
+msgctxt "Style variation name"
+msgid "Red"
+msgstr "Rojo"
+
+#: styles/pink.json
+msgctxt "Style variation name"
+msgid "Pink"
+msgstr "Rosa"
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr "Naranja"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Verde"
+
+#: styles/blue.json
+msgctxt "Style variation name"
+msgid "Blue"
+msgstr "Azul"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Cabecera"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (With Sidebar)"
+msgstr "Página (con barra lateral)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (Full Width, No Title)"
+msgstr "Página (ancho completo, sin título)"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4xl"
+msgstr "4xl"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3xl"
+msgstr "3xl"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2xl"
+msgstr "2xl"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Extra Large"
+msgstr "Extra grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Medium"
+msgstr "Mediano"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Grayscale"
+msgstr "Escala de grises"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Sunset"
+msgstr "Atardecer"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Lime"
+msgstr "Lima"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Blueberry"
+msgstr "Arándano"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Punchy"
+msgstr "Con gancho"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Orange"
+msgstr "Naranja"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Teal"
+msgstr "Verde azulado"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Red"
+msgstr "Rojo"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Yellow"
+msgstr "Amarillo"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Green"
+msgstr "Verde"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Pink"
+msgstr "Rosa"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Blue"
+msgstr "Azul"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Heat"
+msgstr "Calor"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Black"
+msgstr "Negro"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Pink"
+msgstr "Rosa"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Blue"
+msgstr "Azul"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Purple"
+msgstr "Púrpura"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terciario"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Primary Accent"
+msgstr "Acento primario"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Main Accent"
+msgstr "Acento principal"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundario"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Main"
+msgstr "Principal"
+
+#: theme.json styles/blue.json styles/green.json styles/orange.json
+#: styles/pink.json styles/red.json styles/teal.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3xl"
+msgstr "3xl"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2xl"
+msgstr "2xl"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Base"
+msgstr "Base"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra pequeño"
+
+#: patterns/text-call-to-action.php
+msgctxt "Pattern title"
+msgid "Text Call To Action"
+msgstr "Llamada a la acción de texto"
+
+#: patterns/text-call-to-action-buttons.php
+msgctxt "Pattern title"
+msgid "Text Call To Action Buttons"
+msgstr "Botones de llamada a la acción de texto"
+
+#: patterns/text-and-image-columns-with-testimonial.php
+msgctxt "Pattern title"
+msgid "Text and Image Columns With Testimonial"
+msgstr "Columnas de texto e imagen con testimonio"
+
+#: patterns/text-and-image-columns-with-icons.php
+msgctxt "Pattern title"
+msgid "Text and Image Columns With Icons"
+msgstr "Columnas de texto e imagen con iconos"
+
+#: patterns/testimonials-with-social-links.php
+msgctxt "Pattern title"
+msgid "Testimonials With Social Links"
+msgstr "Testimonios con enlaces sociales"
+
+#: patterns/testimonials-with-big-text.php
+msgctxt "Pattern title"
+msgid "Testimonials With Big Text"
+msgstr "Testimonios con texto grande"
+
+#: patterns/testimonials-and-logos.php
+msgctxt "Pattern title"
+msgid "Testimonials and Logos"
+msgstr "Testimonios y logotipos"
+
+#: patterns/testimonial-highlight.php
+msgctxt "Pattern title"
+msgid "Testimonial Highlight"
+msgstr "Testimonio destacado"
+
+#: patterns/team-members.php
+msgctxt "Pattern title"
+msgid "Team Members"
+msgstr "Miembros del equipo"
+
+#: patterns/single-testimonial.php
+msgctxt "Pattern title"
+msgid "Single Testimonial"
+msgstr "Testimonio único"
+
+#: patterns/pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing Table"
+msgstr "Tabla de precios"
+
+#: patterns/pricing-table-with-testimonials.php
+msgctxt "Pattern title"
+msgid "Pricing Table With Testimonials"
+msgstr "Tabla de precios con testimonios"
+
+#: patterns/pricing-table-3-column.php
+msgctxt "Pattern title"
+msgid "Pricing Table - 3 Column"
+msgstr "Tabla de precios - 3 columnas"
+
+#: patterns/post-loop-list.php
+msgctxt "Pattern title"
+msgid "Post Loop List"
+msgstr "Lista de bucles de entrada"
+
+#: patterns/post-loop-grid-default.php
+msgctxt "Pattern description"
+msgid "This post loop grid is best used on index and archive pages where the loop can inherit the query from the page."
+msgstr "Esta cuadrícula de bucle de entradas se utiliza mejor en páginas índice y de archivo, donde el bucle puede heredar la consulta de la página."
+
+#: patterns/post-loop-grid-default.php
+msgctxt "Pattern title"
+msgid "Post Loop Grid Default"
+msgstr "Cuadrícula de bucle de entradas predeterminada"
+
+#: patterns/post-loop-grid-custom.php
+msgctxt "Pattern description"
+msgid "This post loop grid is best used on custom pages where there is not a default post loop."
+msgstr "Esta cuadrícula de bucle de entradas se utiliza mejor en páginas personalizadas en las que no hay un bucle de entrada predeterminado."
+
+#: patterns/post-loop-grid-custom.php
+msgctxt "Pattern title"
+msgid "Post Loop Grid"
+msgstr "Cuadrícula de bucle de entradas"
+
+#: patterns/page-profile.php
+msgctxt "Pattern description"
+msgid "A profile box with an avatar, links to social media, and buttons"
+msgstr "Una caja de perfil con un avatar, enlaces a redes sociales y botones"
+
+#: patterns/page-profile.php
+msgctxt "Pattern title"
+msgid "Profile Box"
+msgstr "Caja de perfil"
+
+#: patterns/page-pricing.php
+msgctxt "Pattern description"
+msgid "A full page design for a Pricing page"
+msgstr "Un diseño de página completa para una página de precios"
+
+#: patterns/page-pricing.php
+msgctxt "Pattern title"
+msgid "Pricing Page"
+msgstr "Página de precios"
+
+#: patterns/page-home.php
+msgctxt "Pattern description"
+msgid "A full page design for a Homepage"
+msgstr "Un diseño de página completa para una página de inicio"
+
+#: patterns/page-home.php
+msgctxt "Pattern title"
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: patterns/page-features.php
+msgctxt "Pattern description"
+msgid "A full page design for a Features page"
+msgstr "Un diseño de página completa para una página de Características"
+
+#: patterns/page-features.php
+msgctxt "Pattern title"
+msgid "Features Page"
+msgstr "Página de características"
+
+#: patterns/page-download.php
+msgctxt "Pattern description"
+msgid "A full page design for a Download page"
+msgstr "Un diseño de página completa para una página de Descarga"
+
+#: patterns/page-download.php
+msgctxt "Pattern title"
+msgid "Download Page"
+msgstr "Página de descarga"
+
+#: patterns/page-blog.php
+msgctxt "Pattern description"
+msgid "A full page design for a blog page"
+msgstr "Un diseño de página completa para una página de blog"
+
+#: patterns/page-blog.php
+msgctxt "Pattern title"
+msgid "Blog Page"
+msgstr "Página del blog"
+
+#: patterns/page-about.php
+msgctxt "Pattern description"
+msgid "A full page design for an About page"
+msgstr "Un diseño de página completa para una página Acerca de"
+
+#: patterns/page-about.php
+msgctxt "Pattern title"
+msgid "About Page"
+msgstr "Página «Acerca de»"
+
+#: patterns/numbers.php
+msgctxt "Pattern title"
+msgid "Numbers"
+msgstr "Números"
+
+#: patterns/numbers-stacked.php
+msgctxt "Pattern description"
+msgid "Display impressive numbers with a short description"
+msgstr "Muestra números impresionantes con una breve descripción"
+
+#: patterns/numbers-stacked.php
+msgctxt "Pattern title"
+msgid "Numbers Stacked"
+msgstr "Números apilados"
+
+#: patterns/job-openings.php
+msgctxt "Pattern description"
+msgid "Show job openings and a call to action button"
+msgstr "Mostrar ofertas de empleo y un botón de llamada a la acción"
+
+#: patterns/job-openings.php
+msgctxt "Pattern title"
+msgid "Job Openings"
+msgstr "Ofertas de empleo"
+
+#: patterns/image-and-numbered-features.php
+msgctxt "Pattern title"
+msgid "Image and Numbered Features"
+msgstr "Imagen y características numeradas"
+
+#: patterns/hero-light.php
+msgctxt "Pattern title"
+msgid "Hero Light"
+msgstr "Hero claro"
+
+#: patterns/hero-dark.php
+msgctxt "Pattern title"
+msgid "Hero Dark"
+msgstr "Hero Oscuro"
+
+#: patterns/hero-call-to-action-buttons.php
+msgctxt "Pattern title"
+msgid "Hero Call To Action Buttons"
+msgstr "Botones Hero de llamada a la acción"
+
+#: patterns/header-light.php
+msgctxt "Pattern title"
+msgid "Header Light"
+msgstr "Cabecera clara"
+
+#: patterns/header-light-with-buttons.php
+msgctxt "Pattern title"
+msgid "Header Light With Buttons"
+msgstr "Cabecera clara con botones"
+
+#: patterns/header-light-with-banner.php
+msgctxt "Pattern title"
+msgid "Header Light With Banner"
+msgstr "Cabecera clara con banner"
+
+#: patterns/header-dark.php
+msgctxt "Pattern title"
+msgid "Header Dark"
+msgstr "Cabecera oscura"
+
+#: patterns/header-dark-with-buttons.php
+msgctxt "Pattern title"
+msgid "Header Dark With Buttons"
+msgstr "Cabecera oscura con botones"
+
+#: patterns/header-dark-with-banner.php patterns/header-dark-with-buttons.php
+#: patterns/header-dark.php patterns/header-light-with-banner.php
+#: patterns/header-light-with-buttons.php patterns/header-light.php
+msgctxt "Pattern description"
+msgid "Header with nav and social icons"
+msgstr "Cabecera con navegación e iconos sociales"
+
+#: patterns/header-dark-with-banner.php
+msgctxt "Pattern title"
+msgid "Header Dark With Banner"
+msgstr "Cabecera oscura con banner"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr "Pie de página"
+
+#: patterns/footer-minimal.php
+msgctxt "Pattern title"
+msgid "Footer Minimal"
+msgstr "Pie de página minimalista"
+
+#: patterns/footer-minimal-light.php
+msgctxt "Pattern title"
+msgid "Footer Minimal Light"
+msgstr "Pie de página minimalista claro"
+
+#: patterns/footer-light.php
+msgctxt "Pattern title"
+msgid "Footer Light"
+msgstr "Pie de página claro"
+
+#: patterns/footer-centered.php
+msgctxt "Pattern title"
+msgid "Footer Centered"
+msgstr "Pie de página centrado"
+
+#: patterns/footer-centered-light.php
+msgctxt "Pattern title"
+msgid "Footer Centered Light"
+msgstr "Pie de página centrado claro"
+
+#: patterns/features-with-emojis.php
+msgctxt "Pattern title"
+msgid "Features With Emojis"
+msgstr "Funciones con emojis"
+
+#: patterns/feature-boxes-with-icon.php
+msgctxt "Pattern title"
+msgid "Feature Boxes With Icon"
+msgstr "Cajas de características con icono"
+
+#: patterns/feature-boxes-with-icon-dark.php
+msgctxt "Pattern title"
+msgid "Feature Boxes With Icon Dark"
+msgstr "Cajas de características con icono oscuro"
+
+#: patterns/feature-boxes-with-button.php
+msgctxt "Pattern title"
+msgid "Feature Boxes With Button"
+msgstr "Cajas de características con botón"
+
+#: patterns/faq.php
+msgctxt "Pattern title"
+msgid "FAQ"
+msgstr "FAQ"
+
+#: patterns/contact-details.php
+msgctxt "Pattern description"
+msgid "Contact details with call to action buttons and a testimonial"
+msgstr "Datos de contacto con botones de llamada a la acción y un testimonio"
+
+#: patterns/contact-details.php
+msgctxt "Pattern title"
+msgid "Contact Details"
+msgstr "Detalles de contacto"
+
+#: patterns/card-text-box-with-arrow.php
+msgctxt "Pattern title"
+msgid "Text Box With Arrow Card"
+msgstr "Cuadro de texto con tarjeta de flecha"
+
+#: patterns/card-text-box-with-arrow-dark.php
+msgctxt "Pattern title"
+msgid "Text Box With Arrow Card Dark"
+msgstr "Cuadro de texto con tarjeta de flecha oscura"
+
+#: patterns/card-text-box-with-arrow-accent.php
+msgctxt "Pattern title"
+msgid "Text Box With Arrow Card Accent"
+msgstr "Cuadro de texto con tarjeta de flecha con acento"
+
+#: patterns/card-text-and-details.php
+msgctxt "Pattern title"
+msgid "Text and Details Card"
+msgstr "Tarjeta con texto y detalles"
+
+#: patterns/card-text-and-call-to-action.php
+msgctxt "Pattern title"
+msgid "Text and Call To Action Card"
+msgstr "Tarjeta con texto y llamada a la acción"
+
+#: patterns/card-testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial Card"
+msgstr "Tarjeta de testimonio"
+
+#: patterns/card-social-profile.php
+msgctxt "Pattern title"
+msgid "Social Profile Card"
+msgstr "Tarjeta de perfil social"
+
+#: patterns/card-pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing Table Card"
+msgstr "Tarjeta de tabla de precios"
+
+#: patterns/card-pricing-table-dark.php
+msgctxt "Pattern title"
+msgid "Pricing Table Card Dark"
+msgstr "Tabla de precios tarjeta oscura"
+
+#: patterns/card-post-list.php
+msgctxt "Pattern title"
+msgid "Post List Card"
+msgstr "Tarjeta de lista de entradas"
+
+#: patterns/card-lead-magnet.php
+msgctxt "Pattern title"
+msgid "Lead Magnet Card"
+msgstr "Tarjeta imán para clientes potenciales"
+
+#: patterns/card-image-and-text.php
+msgctxt "Pattern title"
+msgid "Image and Text Card"
+msgstr "Tarjeta de imagen y texto"
+
+#: patterns/card-details.php
+msgctxt "Pattern title"
+msgid "Details Card"
+msgstr "Detalles de tarjeta"
+
+#: patterns/card-contact.php
+msgctxt "Pattern title"
+msgid "Contact Card"
+msgstr "Tarjeta de contacto"
+
+#: patterns/card-call-to-action.php
+msgctxt "Pattern title"
+msgid "Call To Action Card"
+msgstr "Tarjeta de llamada a la acción"
+
+#: patterns/card-call-to-action-with-buttons.php
+#: patterns/text-call-to-action-buttons.php patterns/text-call-to-action.php
+msgctxt "Pattern description"
+msgid "A call to action with text and a button."
+msgstr "Una llamada a la acción con texto y un botón."
+
+#: patterns/card-call-to-action-with-buttons.php
+msgctxt "Pattern title"
+msgid "Call To Action Card With Buttons"
+msgstr "Tarjeta de llamada a la acción con botones"
+
+#: patterns/card-blog-post.php
+msgctxt "Pattern title"
+msgid "Blog Post Card"
+msgstr "Tarjeta de entrada del blog"
+
+#: patterns/card-big-text-call-to-action.php
+msgctxt "Pattern title"
+msgid "Big Text Call To Action Card"
+msgstr "Tarjeta de llamada a la acción con texto grande"
+
+#: patterns/blog-post-columns.php
+msgctxt "Pattern title"
+msgid "Blog Post Columns"
+msgstr "Columnas de entradas de blog"
+
+#: patterns/blog-post-columns-single.php
+msgctxt "Pattern title"
+msgid "Blog Post Columns Single"
+msgstr "Columnas de entrada de blog Individual"
+
+#: patterns/author-box.php patterns/card-lead-magnet.php
+msgctxt "Pattern description"
+msgid "A call-to-action box to offer a free download or sign up user to an email list."
+msgstr "Una caja de llamada a la acción para ofrecer una descarga gratuita o inscribir al usuario en una lista de correo electrónico."
+
+#: patterns/author-box.php
+msgctxt "Pattern title"
+msgid "Author Box"
+msgstr "Caja de autor"
+
+#: functions.php:204
+msgid "The Sidebar template defines a page area that can be found on the Page (With Sidebar) template."
+msgstr "La plantilla de barra lateral define un área de página que puede encontrarse en la plantilla Página (con barra lateral)."
+
+#: functions.php:203
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:173
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: functions.php:170
+msgid "Pricing"
+msgstr "Precios"
+
+#: functions.php:167
+msgid "Posts"
+msgstr "Entradas"
+
+#: functions.php:164
+msgid "Pages"
+msgstr "Páginas"
+
+#: functions.php:161
+msgid "Hero"
+msgstr "Hero"
+
+#: functions.php:158
+msgid "Features"
+msgstr "Características"
+
+#: functions.php:155
+msgid "Call To Action"
+msgstr "Llamada a la acción"
+
+#: functions.php:152
+msgid "Cards"
+msgstr "Tarjetas"
+
+#: functions.php:96
+msgid "Button Style"
+msgstr "Estilo del botón"
+
+#: functions.php:93
+msgid "Dark Style"
+msgstr "Estilo escuro"
+
+#: functions.php:89
+msgid "Rounded Full"
+msgstr "Redondeado completo"
+
+#: functions.php:86
+msgid "Thin"
+msgstr "Fino"
+
+#: functions.php:85
+msgid "Dotted"
+msgstr "Punteado"
+
+#: functions.php:79
+msgid "Truncate 4 Lines"
+msgstr "Truncar 4 líneas"
+
+#: functions.php:78
+msgid "Truncate 3 Lines"
+msgstr "Truncar 3 líneas"
+
+#: functions.php:77
+msgid "Truncate 2 Lines"
+msgstr "Truncar 2 líneas"
+
+#: functions.php:74 functions.php:82
+msgid "Box Shadow"
+msgstr "Sombra de la caja"
+
+#: functions.php:71
+msgid "Rounded"
+msgstr "Redondeado"
+
+#: functions.php:70
+msgid "Blur Image More"
+msgstr "Difuminar más la imagen"
+
+#: functions.php:69
+msgid "Blur Image Less"
+msgstr "Desenfocar menos la imagen"
+
+#: functions.php:66
+msgid "Dark"
+msgstr "Oscuro"
+
+#: functions.php:60 functions.php:63
+msgid "Button"
+msgstr "Botón"
+
+#: functions.php:57 functions.php:90 functions.php:99
+msgid "Boxed"
+msgstr "En caja"
+
+#: functions.php:56
+msgid "Check Circle"
+msgstr "Círculo de verificación"
+
+#: functions.php:55
+msgid "Check"
+msgstr "Verificación"
+
+#: functions.php:52
+msgid "Secondary"
+msgstr "Secundario"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "mikemcalister.com"
+msgstr "mikemcalister.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Mike McAlister"
+msgstr "Mike McAlister"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "olliewp.com"
+msgstr "olliewp.com"
